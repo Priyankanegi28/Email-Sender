@@ -1,7 +1,3 @@
-Here's a detailed README file template for your Email-Sender project:
-
----
-
 # Email-Sender Project
 
 ## Overview
@@ -71,6 +67,3 @@ The project uses Python's Tkinter for the graphical interface and smtplib to han
 ## License
 This project is licensed under the MIT License.
 
----
-
-Feel free to modify this template as needed and add your project details or screenshots! Let me know if you'd like help with any further adjustments.
