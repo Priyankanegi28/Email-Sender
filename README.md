@@ -57,6 +57,8 @@ The project uses Python's Tkinter for the graphical interface and smtplib to han
 ## Screenshots
 
 ![Main Page](screenshots/img1.png)
+
+
 ![icon](screenshots/SpeedySend.png)
 
 ## Future Enhancements
