@@ -59,7 +59,7 @@ The project uses Python's Tkinter for the graphical interface and smtplib to han
 3. **Submit**: Click the respective "Send" button to dispatch the email(s).
 
 ## Screenshots
-## Main Page
+
 ![Main Page](screenshots/img1.png)
 ![icon](screenshots/SpeedySend.png)
 
